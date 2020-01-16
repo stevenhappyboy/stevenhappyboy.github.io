@@ -11,3 +11,7 @@ $f(x)$ askldfjaskldfj sadlkf
 ```python
 asdfsadfklsadjfklasdjfkljsadfkl
 ```
+
+```math
+f(x)
+```
